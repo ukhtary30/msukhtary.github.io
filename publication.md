@@ -8,6 +8,8 @@
 
 Here are some papers I have written so far.
 ### Year 2024
+34\.  [Hyperbolic enhancement of a quantum battery](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.052206), C. A. Downing and **M. S. Ukhtary**, Phys. Rev. A 109, 052206 (2024).
+
 33\.  [Energetics of a pulsed quantum battery](https://iopscience.iop.org/article/10.1209/0295-5075/ad2e79), C. A. Downing and **M. S. Ukhtary**, EPL 146 10001 (2024).
 
 32\.  [Coherent perfect absorption of light by undoped graphene monolayer](https://iopscience.iop.org/article/10.1088/1361-6463/ad32ab/pdf), **M. S. Ukhtary**, J. Phys. D: Appl. Phys. 57 255301 (2024).
