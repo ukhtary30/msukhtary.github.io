@@ -7,6 +7,8 @@
 
 
 Here are some papers I have written so far.
+### Year 2025
+35\.  [Tunable qubit quantum battery with delta-pulse driving](https://pubs.aip.org/aip/apl/article-abstract/126/3/034002/3332113/Tunable-qubit-quantum-battery-with-delta-pulse?redirectedFrom=fulltext), **M. S. Ukhtary** and Choirun Nisaa Rangkuti, Applied Physics Letters, 126, 034002 (2025).
 ### Year 2024
 35\.  [Two-photon charging of a quantum battery with a Gaussian pulse envelope](https://www.sciencedirect.com/science/article/pii/S0375960124003876), C. A. Downing and **M. S. Ukhtary**, Physics Letters A, 518, 129693 (2024).
 
